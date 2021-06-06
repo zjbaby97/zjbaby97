@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Jia Zhan
-- 👀 I’m interested in Computer sciences
-- 🌱 I’m currently learning apply sciences
-- 💞️ I’m looking to collaborate on any IT companies
--currently MCC student
-2022 WSU
+-Hi, I’m Jia Zhan
+-I’m interested in Computer sciences
+- I’m currently learning apply sciences
+- I'm currently a full time student at Macomb Community College.
+- I will be transfer to Wayne State University in 2022 for my CS bachelor degree.
+- The programming language I'ved learned so far: Python, JS, SQL, HTML(not really programming language but still very popular)
+- I'm learning C++ now 
+- I’m looking for an intern job in IT companies.
+- I will post all the project I've done if I had chance.
+- Thank you!
